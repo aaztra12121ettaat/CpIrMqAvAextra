@@ -7,7 +7,7 @@
 
 
 
-### Facoltativo
+### Da leggere (facoltativo)
 
 - http://www.dei.unipd.it/~musica/IM/cap1.pdf
 
